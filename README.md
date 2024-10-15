@@ -22,16 +22,15 @@ Interacción y Framework para interfaces adaptables:
 
 ## Sigue estos pasos para clonar e instalar el proyecto localmente:
 
-### Clona este repositorio:
-### Copiar código
-git clone [https://github.com/tu-usuario/voting-app.git](https://github.com/ACeballosAndrade/pt-superheroes.git)
+### 1. Clona este repositorio:
+git clone [https://github.com/ACeballosAndrade/pt-superheroes.git](https://github.com/ACeballosAndrade/pt-superheroes.git)
 
-### Entra en el directorio del proyecto:
+### 2. Entra en el directorio del proyecto:
 
-### Instala las dependencias:
+### 3. Instala las dependencias:
 npm install
 
-### Ejecuta el proyecto:
+### 4. Ejecuta el proyecto:
 npm run dev
 
-Abre tu navegador en http://localhost:3000 para ver la aplicación en funcionamiento.
+5. Abre tu navegador en http://localhost:3000 para ver la aplicación en funcionamiento.
